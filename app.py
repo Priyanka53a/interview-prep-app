@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1V0dgQVpZs4wmt3e9TB4wzl2V1wHXxgKs
 """
 
-pip install openai
-
+!pip install openai
 import streamlit as st
 import openai
 from io import StringIO
